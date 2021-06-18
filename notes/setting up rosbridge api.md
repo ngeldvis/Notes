@@ -14,9 +14,9 @@ $ source /opt/ros/<rosdistro>/setup.bash
 # launch rosbridge
 # this will create WebSocket server on port 9090
 $ roslaunch rosbridge_server rosbridge_websocket.launch
-
-# roslaunch will automatically start roscore if it detects that it is not already running (unless the --wait argument is supplied)
 ```
+
+`roslaunch` will automatically start roscore if it detects that it is not already running (unless the `--wait` argument is supplied)
 ```xml
 <!-- To configure port number you need to set the ~/port parameter in ROS -->
 
