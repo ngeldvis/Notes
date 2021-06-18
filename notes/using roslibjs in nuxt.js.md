@@ -1,8 +1,6 @@
-# Notes on Vue.js
+# How to Use ROS JavaScript Library in Nuxt Application
 
-## How to use ROS JavaScript Library (roslib.js) using Nuxt
-
-### Setup
+## Setup
 
 ```bash
 # install roslibjs using npm
@@ -35,7 +33,7 @@ export default {
 
 You can then access the global ros variable as `this.$ros` in any .vue file
 
-### Connect to ROS
+## Connect to ROS
 
 ```html
 <!-- Compopnent/Page.vue -->
@@ -70,7 +68,7 @@ export default {
 </script>
 ```
 
-### Creating a Listener/Subscriber
+## Creating a Listener/Subscriber
 
 ```html
 <!-- Component/Page.vue -->
@@ -106,7 +104,7 @@ export default {
 </script>
 ```
 
-### Creating a Publisher
+## Creating a Publisher
 
 ```html
 <script>
