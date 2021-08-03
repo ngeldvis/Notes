@@ -1,6 +1,6 @@
 # Notes
 
-Useful reference sheets for various topics that I have used
+Useful reference sheets for things I've come across
 
 ## Table of Contents
 
