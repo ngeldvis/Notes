@@ -9,9 +9,9 @@ Useful reference sheets for various topics that I have used
 
 ## InfluxDB
 
-- [InfluxDB Command Line Interface Commands](https://github.com/ngeldvis/Notes/blob/master/InfluxDB/influxdb_cli_commands.md)
+- [InfluxDB Command Line Interface Commands](https://nigeldavis.com/Notes/InfluxDB/influxdb_cli_commands)
 
 ## ROS
 
-- [How to Setup ROSbridge WebSocket Server](https://github.com/ngeldvis/Notes/blob/master/ROS/rosbridge_api_setup.md)
-- [How to Use ROS JavaScript Library in Nuxt Application](https://github.com/ngeldvis/Notes/blob/master/ROS/roslibjs_in_nuxt.md)
+- [How to Setup ROSbridge WebSocket Server](https://nigeldavis.com/Notes/ROS/rosbridge_api_setup)
+- [How to Use ROS JavaScript Library in Nuxt Application](https://nigeldavis.com/Notes/ROS/roslibjs_in_nuxt)
