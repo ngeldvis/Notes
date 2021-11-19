@@ -4,8 +4,20 @@ Useful reference sheets for things I've come across
 
 ## Table of Contents
 
-- [InfluxDB](#influxdb)
-- [ROS](#ros)
+- [Notes](#notes)
+  - [Table of Contents](#table-of-contents)
+  - [Docker](#docker)
+  - [GitHub](#github)
+  - [InfluxDB](#influxdb)
+  - [ROS](#ros)
+
+## Docker
+
+- [Clone a Private GitHub Repository Into a Docker Container](https://nigeldavis.com/Notes/InfluxDB/clone_priv_repo)
+
+## GitHub
+
+- [Authenticate Using GitHub SSH Keys](https://nigeldavis.com/Notes/InfluxDB/ssh_keys)
 
 ## InfluxDB
 
