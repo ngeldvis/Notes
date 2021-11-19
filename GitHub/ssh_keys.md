@@ -1,6 +1,6 @@
 ## GitHub and SSH Keys
 
-In order to be able to clone a private repository into a docker container you need to setup an ssh key on your GitHub account.
+If you don't want to reenter your username and password every time you access your github account you can use an ssh key to authorize your actions.
 
 ### [Generate an SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 
