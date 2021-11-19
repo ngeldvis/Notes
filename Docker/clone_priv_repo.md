@@ -1,6 +1,6 @@
 # Clone a Private GitHub Repository Into a Docker Container
 
-See [article](https://nigeldavis.com/Notes/InfluxDB/ssh_keys) on creating and activating GitHub SSH keys. we are goinn to use SSH keys to authorize docker to clone the private repository.
+See [article](https://nigeldavis.com/Notes/GitHub/ssh_keys) on creating and activating GitHub SSH keys. we are goinn to use SSH keys to authorize docker to clone the private repository.
 
 Now that you have created an SSH key and acivated it on your github account we are ready to clone it into a docker container.
 
