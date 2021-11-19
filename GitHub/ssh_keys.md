@@ -39,7 +39,7 @@ The first input allows you to specify where you want the key to be stored (defau
 
 Make sure to not share this key with anyone, if you add this key to your github account, then anyone with the key has access to all of your GitHub repositories
 
-### [Add SSH Key to your GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-GitHub-account)
+### [Add SSH Key to your GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 1. Copy the SSH public key to your clipboard.
 
