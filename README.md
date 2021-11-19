@@ -13,11 +13,11 @@ Useful reference sheets for things I've come across
 
 ## Docker
 
-- [Clone a Private GitHub Repository Into a Docker Container](https://nigeldavis.com/Notes/InfluxDB/clone_priv_repo)
+- [Clone a Private GitHub Repository Into a Docker Container](https://nigeldavis.com/Notes/Docker/clone_priv_repo)
 
 ## GitHub
 
-- [Authenticate Using GitHub SSH Keys](https://nigeldavis.com/Notes/InfluxDB/ssh_keys)
+- [Authenticate Using GitHub SSH Keys](https://nigeldavis.com/Notes/GitHub/ssh_keys)
 
 ## InfluxDB
 
